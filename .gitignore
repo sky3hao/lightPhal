@@ -1,0 +1,15 @@
+.DS_Store
+._.DS_Store
+._*
+*.swp
+.buildpath
+.settings/
+.project
+.git/
+.idea/
+.vscode/
+composer.phar
+composer.lock
+vendor/
+runtime/
+tmp/
